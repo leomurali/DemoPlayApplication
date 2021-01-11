@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemoPlayApplication</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Explore</string>
+    <string name="title_notifications">Subscriptions</string>
+    <string name="title_library">Library</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
