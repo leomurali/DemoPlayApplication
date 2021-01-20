@@ -5,10 +5,10 @@ public class YouTubeConfig {
     public YouTubeConfig() {
 
     }
-    private static final String KEY_ = "AIzaSyDohRUebvM8A2n_pHEFffDyhb6pb3ALHpk";
+    public static final String API_KEY = "AIzaSyDohRUebvM8A2n_pHEFffDyhb6pb3ALHpk";
 
-    public static String getKey(){
-        return getKey();
-    }
+//    public static String getKey(){
+//        return getKey();
+//    }
 
 }
